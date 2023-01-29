@@ -1,6 +1,6 @@
 # Rust
 
-Once Linus Torvalds blesses something, that thing is destined to achieve world domination - exemplified by Linux and Git. Now Rust has received the royal nod - it has been accepted as another language for Linux kernel development. Efforts are underway to rewrite everything in Rust. I will talk about how Rust is different and similar to other mainstream languages. Then I compare implementation of a simple microservice in Python, Javascript, C++, C#, Java, and Rust, and race them against each other to compare their performance.
+Once Linus Torvalds blesses something, that thing is destined to achieve world domination - exemplified by Linux and Git. Now Rust has received the royal nod - it has been accepted as another language for Linux kernel development. Efforts are underway to rewrite everything in Rust. Here I discuss similarities and differences between Rust and other mainstream languages. Then I compare implementation of a simple microservice in Python, Javascript, C++, C#, Java, and Rust, and race them against each other to compare their performance.
 
 
 ## Rust rationales
